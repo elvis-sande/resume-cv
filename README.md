@@ -8,7 +8,7 @@
 
 ---
 
-## Extra-curricular Engagements
+## Work history
 
 ### [Amatsi Water And Sanitation Company](https://amatsiwater.co.ke/)
 

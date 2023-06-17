@@ -1,10 +1,10 @@
 <!-- RESUME in Markdown -->
-# Elvis Sande Profile Resume (outdated)
+# (outdated)
 
 * [Email me 📩](mailto:elvischris00@hotmail.com)
 * [Download resume .doc](https://1drv.ms/w/s!AsdSWFbPZLirn3Cf9xxoncfV7SEo?e=KdUaBu)
 
-**Computer Scientist specialized in information security**
+**Computer Scientist with +5 years experience in information security**
 
 ---
 
@@ -44,7 +44,7 @@
 
 ### [Google Africa Developer Scholarship](https://www.pluralsight.com/partners/google/africa/gads-2021)
 
-*Volunteer Mentor | `2021 - 2022`*
+*Android Developer Mentor | `2021 - 2022`*
 
 <details>
 <summary><b>Key Accomplishments</b></summary>
@@ -118,7 +118,7 @@
 
 * Google IT Support Professional
 * 2020 - 2021 Google Developer Student Club Lead
-* 2014 National Science Congress, 2nd I.C.T project Rongo Sub-County, 4th in Migori County 
+* 53rd Kenya National Science and Engineering Fair, 2nd I.C.T project Rongo Sub-County, 4th in Migori County 
 * More   
 ---
 
